@@ -4,7 +4,7 @@
 
 <h3>Run script with command <strong>`bash one-off-script.bash`</strong></h3>
 <h3><b>use One-Off-Script after Linux installation</b></h3>
-<b>Programs list</b>
+<b>The script installs all these programs , Programs list `</b>
 
 <ol>
 	<li>Google-Chrome (Version 63.0.3239.84) </li>
