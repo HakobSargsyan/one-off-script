@@ -1,4 +1,6 @@
-<p align="center"><img src="https://s27.postimg.org/4uv9crivn/Screen_Shot_2014-04-24_at_12.30.13.png"></p>
+<p align="center">
+	<img style = "width: 800px;height: 200px;" src="https://s27.postimg.org/4uv9crivn/Screen_Shot_2014-04-24_at_12.30.13.png">
+</p>
 
 <h3><b>One Off Script after Linux installation</b></h3>
 <b>Programs list</b>
